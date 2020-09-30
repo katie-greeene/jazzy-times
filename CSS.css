@@ -2,3 +2,9 @@
   color: #7E8184;        /* Light gray */
   font-style: italic;
 }
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
